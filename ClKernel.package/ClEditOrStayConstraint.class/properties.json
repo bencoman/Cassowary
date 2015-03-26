@@ -1,0 +1,14 @@
+{
+	"category" : "ClKernel",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"variable" ],
+	"name" : "ClEditOrStayConstraint",
+	"pools" : [
+		 ],
+	"super" : "ClConstraint",
+	"type" : "normal" }

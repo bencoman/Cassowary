@@ -1,0 +1,15 @@
+{
+	"category" : "ClKernel",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"strength",
+		"weight" ],
+	"name" : "ClConstraint",
+	"pools" : [
+		"ClConstants" ],
+	"super" : "Object",
+	"type" : "normal" }

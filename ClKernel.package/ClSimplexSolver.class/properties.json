@@ -1,0 +1,30 @@
+{
+	"category" : "ClKernel",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"rows",
+		"columns",
+		"objective",
+		"infeasibleRows",
+		"stayPlusErrorVars",
+		"stayMinusErrorVars",
+		"editVars",
+		"editConstraints",
+		"editPlusErrorVars",
+		"editMinusErrorVars",
+		"prevEditConstants",
+		"newEditConstants",
+		"markerVars",
+		"errorVars",
+		"slackCounter",
+		"artificialCounter",
+		"dummyCounter" ],
+	"name" : "ClSimplexSolver",
+	"pools" : [
+		"ClConstants" ],
+	"super" : "Object",
+	"type" : "normal" }

@@ -1,0 +1,14 @@
+{
+	"category" : "ClKernel",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"value" ],
+	"name" : "ClVariable",
+	"pools" : [
+		 ],
+	"super" : "ClAbstractVariable",
+	"type" : "normal" }

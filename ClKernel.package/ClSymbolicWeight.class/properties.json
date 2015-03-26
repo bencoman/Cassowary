@@ -1,0 +1,14 @@
+{
+	"category" : "ClKernel",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		"Zero" ],
+	"commentStamp" : "",
+	"instvars" : [
+		 ],
+	"name" : "ClSymbolicWeight",
+	"pools" : [
+		"ClConstants" ],
+	"super" : "Object",
+	"type" : "variable" }

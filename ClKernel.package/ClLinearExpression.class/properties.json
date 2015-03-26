@@ -1,0 +1,15 @@
+{
+	"category" : "ClKernel",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"constant",
+		"terms" ],
+	"name" : "ClLinearExpression",
+	"pools" : [
+		"ClConstants" ],
+	"super" : "Object",
+	"type" : "normal" }

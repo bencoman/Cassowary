@@ -1,0 +1,18 @@
+{
+	"category" : "ClKernel",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		"MediumStrength",
+		"RequiredStrength",
+		"StrongStrength",
+		"WeakStrength" ],
+	"commentStamp" : "",
+	"instvars" : [
+		"name",
+		"symbolicWeight" ],
+	"name" : "ClStrength",
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"type" : "normal" }

@@ -1,0 +1,14 @@
+{
+	"category" : "ClKernel",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"expression" ],
+	"name" : "ClLinearConstraint",
+	"pools" : [
+		 ],
+	"super" : "ClConstraint",
+	"type" : "normal" }
