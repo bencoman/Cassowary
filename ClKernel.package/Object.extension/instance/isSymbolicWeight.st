@@ -1,0 +1,3 @@
+*clkernel
+isSymbolicWeight
+	^false

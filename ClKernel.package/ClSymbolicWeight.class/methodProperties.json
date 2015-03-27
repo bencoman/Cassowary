@@ -1,5 +1,20 @@
 {
 	"class" : {
-		 },
+		"initializeAfterLoad" : "ThierryGoubier 3/27/2015 21:44",
+		"new" : "ThierryGoubier 3/27/2015 21:44",
+		"zero" : "ThierryGoubier 3/27/2015 21:44" },
 	"instance" : {
-		 } }
+		"*" : "ThierryGoubier 3/27/2015 21:44",
+		"+" : "ThierryGoubier 3/27/2015 21:44",
+		"-" : "ThierryGoubier 3/27/2015 21:44",
+		"/" : "ThierryGoubier 3/27/2015 21:44",
+		"<" : "ThierryGoubier 3/27/2015 21:44",
+		"<=" : "ThierryGoubier 3/27/2015 21:44",
+		"=" : "ThierryGoubier 3/27/2015 21:44",
+		">" : "ThierryGoubier 3/27/2015 21:44",
+		">=" : "ThierryGoubier 3/27/2015 21:44",
+		"approxNonNegative" : "ThierryGoubier 3/27/2015 21:44",
+		"clApprox:" : "ThierryGoubier 3/27/2015 21:44",
+		"clApproxZero" : "ThierryGoubier 3/27/2015 21:44",
+		"isSymbolicWeight" : "ThierryGoubier 3/27/2015 21:44",
+		"printOn:" : "ThierryGoubier 3/27/2015 21:44" } }

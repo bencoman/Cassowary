@@ -1,5 +1,11 @@
 {
 	"class" : {
-		 },
+		"newNamed:" : "ThierryGoubier 3/27/2015 21:44" },
 	"instance" : {
-		 } }
+		"isDummy" : "ThierryGoubier 3/27/2015 21:44",
+		"isExternal" : "ThierryGoubier 3/27/2015 21:44",
+		"isPivotable" : "ThierryGoubier 3/27/2015 21:44",
+		"isRestricted" : "ThierryGoubier 3/27/2015 21:44",
+		"name" : "ThierryGoubier 3/27/2015 21:44",
+		"name:" : "ThierryGoubier 3/27/2015 21:44",
+		"printOn:" : "ThierryGoubier 3/27/2015 21:44" } }

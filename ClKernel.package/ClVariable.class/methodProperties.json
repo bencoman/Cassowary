@@ -1,5 +1,28 @@
 {
 	"class" : {
-		 },
+		"newWith:" : "ThierryGoubier 3/27/2015 21:44",
+		"newWith:name:" : "ThierryGoubier 3/27/2015 21:44" },
 	"instance" : {
-		 } }
+		"*" : "ThierryGoubier 3/27/2015 22:52",
+		"+" : "ThierryGoubier 3/27/2015 22:52",
+		"-" : "ThierryGoubier 3/27/2015 22:52",
+		"/" : "ThierryGoubier 3/27/2015 22:52",
+		"@" : "ThierryGoubier 3/27/2015 22:53",
+		"asLinearExpression" : "ThierryGoubier 3/27/2015 22:52",
+		"cnEqual:" : "ThierryGoubier 3/27/2015 22:53",
+		"cnEqual:strength:" : "ThierryGoubier 3/27/2015 22:53",
+		"cnEqual:strength:weight:" : "ThierryGoubier 3/27/2015 22:52",
+		"cnGEQ:" : "ThierryGoubier 3/27/2015 22:53",
+		"cnGEQ:strength:" : "ThierryGoubier 3/27/2015 22:53",
+		"cnGEQ:strength:weight:" : "ThierryGoubier 3/27/2015 22:54",
+		"cnLEQ:" : "ThierryGoubier 3/27/2015 22:54",
+		"cnLEQ:strength:" : "ThierryGoubier 3/27/2015 22:54",
+		"cnLEQ:strength:weight:" : "ThierryGoubier 3/27/2015 22:54",
+		"divFrom:" : "ThierryGoubier 3/27/2015 22:55",
+		"isExternal" : "ThierryGoubier 3/27/2015 22:55",
+		"isPivotable" : "ThierryGoubier 3/27/2015 22:55",
+		"isRestricted" : "ThierryGoubier 3/27/2015 22:55",
+		"printOn:" : "ThierryGoubier 3/27/2015 22:55",
+		"subtractFrom:" : "ThierryGoubier 3/27/2015 22:55",
+		"value" : "ThierryGoubier 3/27/2015 22:55",
+		"value:" : "ThierryGoubier 3/27/2015 22:56" } }
