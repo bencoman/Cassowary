@@ -1,4 +1,3 @@
 as yet unclassified
 required
-
-	^RequiredStrength
+	^ RequiredStrength

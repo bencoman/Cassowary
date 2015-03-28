@@ -13,5 +13,4 @@ beginEdit
 
 	"
 
-	self newEditConstants: (Array new: self editVars size).
-
+	self newEditConstants: (Array new: self editVars size)

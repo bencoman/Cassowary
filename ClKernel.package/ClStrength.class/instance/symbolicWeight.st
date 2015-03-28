@@ -1,3 +1,3 @@
 as yet unclassified
-symbolicWeight	
-	^symbolicWeight
+symbolicWeight
+	^ symbolicWeight

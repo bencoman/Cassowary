@@ -7,5 +7,6 @@ columns
 		are intermixed in the one tableau).
 	RETURNS
 		<LookupTable keys: ClAbstractVariable values: (Set of ClAbstractVariable)>
-	"	
-	^columns
+	"
+
+	^ columns

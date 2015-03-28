@@ -8,4 +8,4 @@ resolve
 	self resetStayConstants.
 	self resetEditConstants.
 	self dualOptimize.
-	self setExternalVariables.
+	self setExternalVariables

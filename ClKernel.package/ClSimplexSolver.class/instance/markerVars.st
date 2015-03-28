@@ -5,4 +5,5 @@ markerVars
 	RETURNS
 		<LookupTable keys: <ClConstraint> values: <ClAbstractVariable>
 	"
-	^markerVars
+
+	^ markerVars

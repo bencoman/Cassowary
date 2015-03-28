@@ -1,3 +1,3 @@
 as yet unclassified
 zero
-	^Zero
+	^ Zero

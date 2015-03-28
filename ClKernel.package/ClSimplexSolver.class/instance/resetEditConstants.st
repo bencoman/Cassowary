@@ -11,26 +11,30 @@ resetEditConstants
 		this expression.  Otherwise they are both nonbasic.  Find all of the expressions in which
 		they occur, and fix the constants in those.  See the UIST paper for details.
 	"
-		| delta nn pp |
-	self newEditConstants size = self editPlusErrorVars size ifFalse: [
-		"number of edit constants doesn't match the number of edit error variables"
-		ExCLInternalError signal].
-	1 to: self newEditConstants size do: [:i |
 
-
-nn := self newEditConstants.
-pp := self prevEditConstants.
-nn isNil ifTrue: [self halt].
-self prevEditConstants isNil ifTrue: [self halt].
- (self newEditConstants at: i)  isNil ifTrue: 
-[Transcript cr; show: self newEditConstants printString.
-self halt].
- (self prevEditConstants at: i) isNil ifTrue: [self halt].
-
-
+	| delta nn pp |
+	self newEditConstants size = self editPlusErrorVars size
+		ifFalse: [ 
+			"number of edit constants doesn't match the number of edit error variables"
+			ExCLInternalError signal ].
+	1 to: self newEditConstants size do: [ :i | 
+		nn := self newEditConstants.
+		pp := self prevEditConstants.
+		nn isNil
+			ifTrue: [ self halt ].
+		self prevEditConstants isNil
+			ifTrue: [ self halt ].
+		(self newEditConstants at: i) isNil
+			ifTrue: [ 
+				Transcript
+					cr;
+					show: self newEditConstants printString.
+				self halt ].
+		(self prevEditConstants at: i) isNil
+			ifTrue: [ self halt ].
 		delta := (self newEditConstants at: i) - (self prevEditConstants at: i).
 		self prevEditConstants at: i put: (self newEditConstants at: i).
-		self 
+		self
 			deltaEditConstant: delta
 			plusErrorVar: (self editPlusErrorVars at: i)
-			minusErrorVar: (self editMinusErrorVars at: i)].
+			minusErrorVar: (self editMinusErrorVars at: i) ]

@@ -4,5 +4,6 @@ columns: cols
 		See 'columns'.
 	PARAMETERX
 		cols <LookupTable keys: ClAbstractVariable values: (Set of ClAbstractVariable)>
-	"	
+	"
+
 	columns := cols

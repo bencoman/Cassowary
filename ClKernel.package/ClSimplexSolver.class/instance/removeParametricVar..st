@@ -5,6 +5,7 @@ removeParametricVar: var
 	PARAMETERS
 		var <ClAbstractVariable>
 	"
-		| set |
+
+	| set |
 	set := self columns removeKey: var.
-	set do: [:v | (self rows at: v) terms removeKey: var]
+	set do: [ :v | (self rows at: v) terms removeKey: var ]

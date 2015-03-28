@@ -4,6 +4,6 @@ endEdit
 		Do any needed cleanup after editing.  (See beginEdit for the sequence of calls.)
 	"
 
-	self editConstraints do: [:cn | self removeConstraint: cn].
-	self editVars: #( ).
-	self editConstraints: #( ).
+	self editConstraints do: [ :cn | self removeConstraint: cn ].
+	self editVars: #().
+	self editConstraints: #()

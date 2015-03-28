@@ -6,5 +6,6 @@ rows
 		(i.e. the keys may be either restricted or unrestricted variables).
 	RETURNS
 		<LookupTable keys: ClAbstractVariable values: ClLinearExpression>
-	"	
-	^rows
+	"
+
+	^ rows

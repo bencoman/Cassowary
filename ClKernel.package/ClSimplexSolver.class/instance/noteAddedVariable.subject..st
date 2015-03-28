@@ -7,4 +7,6 @@ noteAddedVariable: var subject: subject
 		var <ClAbstractVariable>
 		subject <ClAbstractVariable | nil>
 	"
-	subject notNil ifTrue: [(self columns at: var ifAbsentPut: [Set new]) add: subject]
+
+	subject notNil
+		ifTrue: [ (self columns at: var ifAbsentPut: [ Set new ]) add: subject ]

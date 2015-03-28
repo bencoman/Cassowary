@@ -4,5 +4,6 @@ infeasibleRows: r
 		See 'infeasibleRows'
 	PARAMETERS
 		r <OrderedCollection of ClSlackVariable>
-	"	
+	"
+
 	infeasibleRows := r

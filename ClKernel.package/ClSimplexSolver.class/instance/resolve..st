@@ -7,4 +7,4 @@ resolve: cs
 	"
 
 	self newEditConstants: cs.
-	self resolve.
+	self resolve

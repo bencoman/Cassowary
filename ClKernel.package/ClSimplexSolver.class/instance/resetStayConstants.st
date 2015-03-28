@@ -11,8 +11,11 @@ resetStayConstants
 		of them is basic, and the other must occur only in the expression for that basic error variable.
 		Reset the constant in this expression to 0.
 	"
-		| expr |
-	1 to: self stayPlusErrorVars size do: [:i | 
-		expr := self rows at: (self stayPlusErrorVars at: i) ifAbsent: [
-				self rows at: (self stayMinusErrorVars at: i) ifAbsent: [nil]].
-		expr notNil ifTrue: [expr constant: 0.0]]
+
+	| expr |
+	1 to: self stayPlusErrorVars size do: [ :i | 
+		expr := self rows
+			at: (self stayPlusErrorVars at: i)
+			ifAbsent: [ self rows at: (self stayMinusErrorVars at: i) ifAbsent: [ nil ] ].
+		expr notNil
+			ifTrue: [ expr constant: 0.0 ] ]

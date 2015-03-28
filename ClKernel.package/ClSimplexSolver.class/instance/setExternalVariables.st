@@ -12,5 +12,12 @@ setExternalVariables
 		variables that do have stays.  For the moment I'll put this in though.)  Variables that are internal
 		to the solver don't actually store values -- their values are just implicit in the tableu -- so
 		we don't need to set them."
-	self rows keysAndValuesDo: [:var :expr | var isExternal ifTrue: [var value: expr constant]].
-	self columns keysDo: [:var | var isExternal ifTrue: [var value: 0.0]].
+
+	self rows
+		keysAndValuesDo: [ :var :expr | 
+			var isExternal
+				ifTrue: [ var value: expr constant ] ].
+	self columns
+		keysDo: [ :var | 
+			var isExternal
+				ifTrue: [ var value: 0.0 ] ]

@@ -1,4 +1,3 @@
 as yet unclassified
 isRequired
-
-	^self == RequiredStrength
+	^ self == RequiredStrength

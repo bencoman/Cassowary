@@ -7,4 +7,6 @@ noteRemovedVariable: var subject: subject
 		var <ClAbstractVariable>
 		subject <ClAbstractVariable | nil>
 	"
-	subject notNil ifTrue: [(self columns at: var) remove: subject]
+
+	subject notNil
+		ifTrue: [ (self columns at: var) remove: subject ]

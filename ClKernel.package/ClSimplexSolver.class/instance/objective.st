@@ -5,4 +5,5 @@ objective
 	RETURNS
 		<ClLinearExpression>
 	"
-	^objective
+
+	^ objective

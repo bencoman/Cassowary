@@ -6,4 +6,5 @@ errorVars
 	RETURNS
 		<LookupTable keys: <ClConstraint> values: <Array of: ClSlackVariable>>
 	"
-	^errorVars
+
+	^ errorVars
