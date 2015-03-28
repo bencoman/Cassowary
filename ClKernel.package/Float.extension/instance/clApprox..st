@@ -11,8 +11,9 @@ clApprox: x
 	"
 
 	| epsilon |
-
-	epsilon := ClSimplexSolver epsilon.
-	self = 0.0 ifTrue: [^x abs < epsilon].
-	x = 0.0 ifTrue: [^self abs < epsilon].
-	^(self - x) abs < (self abs * epsilon)
+	epsilon := Float epsilon.
+	self = 0.0
+		ifTrue: [ ^ x abs < epsilon ].
+	x = 0.0
+		ifTrue: [ ^ self abs < epsilon ].
+	^ (self - x) abs < (self abs * epsilon)

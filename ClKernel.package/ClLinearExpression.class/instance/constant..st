@@ -7,4 +7,5 @@ constant: c
 		c <Number>
 	"
 
+	self assert: c notNil.
 	constant := c

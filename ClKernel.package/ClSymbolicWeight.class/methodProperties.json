@@ -1,6 +1,6 @@
 {
 	"class" : {
-		"initializeAfterLoad" : "ThierryGoubier 3/28/2015 08:57",
+		"initialize" : "ThierryGoubier 3/28/2015 14:09",
 		"new" : "ThierryGoubier 3/28/2015 08:57",
 		"zero" : "ThierryGoubier 3/28/2015 08:57" },
 	"instance" : {
@@ -13,8 +13,9 @@
 		"=" : "ThierryGoubier 3/28/2015 08:58",
 		">" : "ThierryGoubier 3/28/2015 08:58",
 		">=" : "ThierryGoubier 3/28/2015 08:58",
+		"adaptToNumber:andSend:" : "ThierryGoubier 3/28/2015 14:23",
 		"approxNonNegative" : "ThierryGoubier 3/28/2015 09:00",
-		"clApprox:" : "ThierryGoubier 3/28/2015 08:58",
+		"clApprox:" : "ThierryGoubier 3/28/2015 14:26",
 		"clApproxZero" : "ThierryGoubier 3/28/2015 08:58",
 		"isSymbolicWeight" : "ThierryGoubier 3/28/2015 08:58",
 		"printOn:" : "ThierryGoubier 3/28/2015 08:58" } }

@@ -12,4 +12,4 @@ clApprox: x
 	NOTES
 		The default is just an equality test."
 
-	^self = x
+	^ self = x
