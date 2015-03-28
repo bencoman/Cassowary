@@ -6,8 +6,8 @@ testInconsistent1
 	solver addConstraint: (x cnEqual: 10.0).
 	signalled := false.
 	[ solver addConstraint: (x cnEqual: 5.0) ]
-		when: ExCLRequiredFailure
+		on: ExCLRequiredFailure
 		do: [ :signal | 
 			signalled := true.
-			signal exitWith: false ].
+			false ].
 	self assert: signalled

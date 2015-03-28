@@ -1,8 +1,6 @@
 tests
 testStay1
 	| x solver result stay |
-	haltFirst
-		ifTrue: [ self halt ].
 	x := ClVariable newWith: 20.0 name: 'x'.	"set up solver with a weak stay on x, required 10<=x<=100, and required x=2*y"
 	solver := ClSimplexSolver new.
 	stay := ClStayConstraint variable: x strength: ClStrength weak.
