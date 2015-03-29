@@ -1,10 +1,10 @@
-as yet unclassified
+accessing
 terms: t
 	"ACTION
 		See #terms
 
 	PARAMETERS
-		<LookupTable>
+		<Dictionary>
 	"
 
 	terms := t

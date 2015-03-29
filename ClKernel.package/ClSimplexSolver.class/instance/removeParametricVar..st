@@ -1,4 +1,4 @@
-as yet unclassified
+private
 removeParametricVar: var
 	"ACTION
 		Remove the parametric variable var, updating the appropriate column and row entries.

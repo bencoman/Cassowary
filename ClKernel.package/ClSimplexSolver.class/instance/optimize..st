@@ -1,4 +1,4 @@
-as yet unclassified
+resolving
 optimize: zVar
 	"ACTION
 		Minimize the value of the objective.  (The tableau should already be feasible.)

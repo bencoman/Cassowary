@@ -1,4 +1,4 @@
-as yet unclassified
+resolving
 resetStayConstants
 	"ACTION
 		Each of the non-required stays will be represented by an equation of the form

@@ -1,4 +1,4 @@
-as yet unclassified
+private
 tryAddingDirectly: expr
 	"ACTION
 		We are trying to add the constraint expr=0 to the appropriate tableau.  Try to add expr directly to the tableax

@@ -1,4 +1,4 @@
-as yet unclassified
+constraints
 addEditVar: v strength: s
 	"ACTION
 		Add v to the collection of variables being edited.

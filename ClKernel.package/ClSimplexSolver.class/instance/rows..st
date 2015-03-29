@@ -1,4 +1,4 @@
-as yet unclassified
+accessing
 rows: r
 	"ACTION
 		See 'rows'.

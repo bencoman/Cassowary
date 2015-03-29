@@ -1,4 +1,4 @@
-as yet unclassified
+constraints
 addVariable: v coefficient: c
 	"ACTION
 		Add a term c*v to this expression.  If the expression already contains a

@@ -1,4 +1,4 @@
-as yet unclassified
+constraints
 addExpression: expr times: n subject: subject solver: solver
 	"ACTION
 		Add n*expr to this expression for another expression expr.  Notify the solver if

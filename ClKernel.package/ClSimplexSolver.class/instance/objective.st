@@ -1,4 +1,4 @@
-as yet unclassified
+accessing
 objective
 	"ACTION
 		Return the objective function.

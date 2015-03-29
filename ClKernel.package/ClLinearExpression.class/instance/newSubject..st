@@ -1,4 +1,4 @@
-as yet unclassified
+constraints
 newSubject: subject
 	"ACTION
 		This linear expression currently represents the equation self=0.  Destructively modify it so 

@@ -1,4 +1,4 @@
-as yet unclassified
+private
 substituteOut: oldVar expr: expr
 	"replace all occurrences of oldVar with expr (including in the objective function), and update the 
 	  column cross-references.  oldVar should now be a basic variable."

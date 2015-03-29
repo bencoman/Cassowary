@@ -1,4 +1,4 @@
-as yet unclassified
+constraints
 addBounds: var lowerBound: lower upperBound: upper
 	"ACTION
 		Add constraints so that lower<=var<=upper.  (nil means no  bound.)

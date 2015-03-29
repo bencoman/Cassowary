@@ -1,4 +1,4 @@
-as yet unclassified
+class initialization
 initialize
 	"ACTION
 		Initialize the class variables to the pre-defined strengths.

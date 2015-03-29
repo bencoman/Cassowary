@@ -1,4 +1,4 @@
-as yet unclassified
+constraints
 addPointStays: points
 	"ACTION
 		Add weak stays to the x and y parts of each point.  These have declining weights

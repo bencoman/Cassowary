@@ -1,4 +1,4 @@
-as yet unclassified
+constraints
 substituteOut: var expr: expr subject: subject solver: solver
 	"ACTION
 		Replace var with a symbolic expression expr that is equal to it.  If a variable has been added to this

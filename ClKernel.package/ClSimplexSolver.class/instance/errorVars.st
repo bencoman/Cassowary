@@ -1,4 +1,4 @@
-as yet unclassified
+accessing
 errorVars
 	"ACTION
 		Return a lookup table giving the error variables for a non-required constraint.

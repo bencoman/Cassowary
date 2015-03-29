@@ -1,4 +1,4 @@
-as yet unclassified
+constraints
 addRow: var expr: expr
 	"ACTION
 		Add the constraint var=expr to the tableau.  var is now a basic variable.  Update the column cross-indices.

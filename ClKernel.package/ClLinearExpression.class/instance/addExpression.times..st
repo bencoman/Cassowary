@@ -1,4 +1,4 @@
-as yet unclassified
+constraints
 addExpression: expr times: n
 	"ACTION
 		Add n*expr to this expression for another expression expr.

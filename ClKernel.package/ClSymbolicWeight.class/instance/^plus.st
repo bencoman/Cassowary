@@ -1,4 +1,4 @@
-as yet unclassified
+arithmetic
 + n
 	"Add this symbolic weight to n (which must also be a symbolic weight)"
 

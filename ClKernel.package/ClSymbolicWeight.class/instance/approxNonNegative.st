@@ -1,4 +1,4 @@
-as yet unclassified
+testing
 approxNonNegative
 	"return true if this symbolic weight is non-negative.  Allow coefficients that are within epsilon of
 		0 to count as 0"

@@ -1,4 +1,4 @@
-as yet unclassified
+editing
 beginEdit
 	"ACTION
 		Do any needed setup to begin editing.  The sequence of calls should be:

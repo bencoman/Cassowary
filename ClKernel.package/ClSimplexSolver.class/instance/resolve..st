@@ -1,4 +1,4 @@
-as yet unclassified
+resolving
 resolve: cs
 	"ACTION
 		Re-solve the current collection of constraints for new values for the constants of the edit variables.

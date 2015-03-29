@@ -1,3 +1,3 @@
-as yet unclassified
+instance creation
 new
 	^ super new initialize

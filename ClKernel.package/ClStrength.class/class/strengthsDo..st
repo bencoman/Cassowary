@@ -1,4 +1,4 @@
-as yet unclassified
+iterating
 strengthsDo: block
 	"ACTION
 		Evaluation the block for each defined strength, strongest to weakest.

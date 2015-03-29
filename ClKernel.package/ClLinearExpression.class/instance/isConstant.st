@@ -1,4 +1,4 @@
-as yet unclassified
+testing
 isConstant
 	"ACTION
 		Return true if this expression is a constant (i.e. it contains no variables).

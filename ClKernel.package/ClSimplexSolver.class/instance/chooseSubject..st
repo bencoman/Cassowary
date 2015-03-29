@@ -1,4 +1,4 @@
-as yet unclassified
+private
 chooseSubject: expr
 	"ACTION
 		We are trying to add the constraint expr=0 to the tableaux.  Try to choose a subject 

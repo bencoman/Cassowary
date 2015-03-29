@@ -1,3 +1,3 @@
-as yet unclassified
+printing
 printOn: strm
 	strm nextPutAll: self name

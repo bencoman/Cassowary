@@ -1,4 +1,4 @@
-as yet unclassified
+constraints
 changeSubject: oldSubject newSubject: newSubject
 	"ACTION
 		This linear expression currently represents the equation oldSubject=self.

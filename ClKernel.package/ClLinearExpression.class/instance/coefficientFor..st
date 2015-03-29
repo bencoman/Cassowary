@@ -1,4 +1,4 @@
-as yet unclassified
+accessing
 coefficientFor: var
 	"ACTION
 		Return the coefficient corresponding to variable var, i.e.,

@@ -1,4 +1,4 @@
-as yet unclassified
+accessing
 constant
 	"ACTION
 		Return the constant part of this expression, i.e., the 'c' in:

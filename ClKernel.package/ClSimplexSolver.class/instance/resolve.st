@@ -1,4 +1,4 @@
-as yet unclassified
+resolving
 resolve
 	"ACTION
 		Re-solve the current collection of constraints for the new values in newEditConstants.

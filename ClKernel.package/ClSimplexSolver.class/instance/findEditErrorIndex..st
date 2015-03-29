@@ -1,4 +1,4 @@
-as yet unclassified
+editing
 findEditErrorIndex: eVars
 	"find the index in editPlusErrorVars of one of the variables in eVars"
 

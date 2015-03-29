@@ -1,4 +1,4 @@
-as yet unclassified
+private
 makeExpression: cn
 	"ACTION
 		Make a new linear expression representing the constraint cn, replacing any basic variables 

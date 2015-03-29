@@ -1,4 +1,4 @@
-as yet unclassified
+comparing
 = n
 	n isSymbolicWeight
 		ifFalse: [ ^ false ].

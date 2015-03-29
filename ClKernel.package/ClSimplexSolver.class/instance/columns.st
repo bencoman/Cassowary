@@ -1,4 +1,4 @@
-as yet unclassified
+accessing
 columns
 	"ACTION
 		Return the dictionary of column cross-indices.  The keys are parametric variables and the values are 

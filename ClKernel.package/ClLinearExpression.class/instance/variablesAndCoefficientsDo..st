@@ -1,4 +1,4 @@
-as yet unclassified
+constraints
 variablesAndCoefficientsDo: aBlock
 	"ACTION
 		Evaluate aBlock with each variable-coefficient pair as arguments.

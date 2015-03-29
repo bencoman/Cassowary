@@ -1,4 +1,4 @@
-as yet unclassified
+initialization
 initialize
 	"ACTION
 		Initialize this linear expression to 0.

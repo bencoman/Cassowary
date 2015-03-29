@@ -1,4 +1,4 @@
-as yet unclassified
+accessing
 objective: expr
 	"ACTION
 		Set the objective function.

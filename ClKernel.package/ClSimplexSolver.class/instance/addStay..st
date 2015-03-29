@@ -1,4 +1,4 @@
-as yet unclassified
+constraints
 addStay: v
 	"ACTION
 		Add a weak stay to v.

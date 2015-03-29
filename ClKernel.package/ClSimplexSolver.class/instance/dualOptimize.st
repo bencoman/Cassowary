@@ -1,4 +1,4 @@
-as yet unclassified
+resolving
 dualOptimize
 	"We have set new values for the constants in the edit constraints.  Re-optimize using the dual simplex algorithm."
 

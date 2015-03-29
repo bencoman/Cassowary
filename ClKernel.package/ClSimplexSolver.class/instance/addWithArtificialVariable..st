@@ -1,4 +1,4 @@
-as yet unclassified
+constraints
 addWithArtificialVariable: expr
 	"ACTION
 		Add the constraint expr=0 to the inequality tableau using an artificial variable.  To do this, create an

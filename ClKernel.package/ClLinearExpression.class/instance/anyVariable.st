@@ -1,4 +1,4 @@
-as yet unclassified
+accessing
 anyVariable
 	"ACTION
 		Return a variable in this expression.  (It is an error if this expression is constant).

@@ -1,4 +1,4 @@
-as yet unclassified
+printing
 printOn: strm
 	| sortedKeys |
 	self constant printOn: strm.

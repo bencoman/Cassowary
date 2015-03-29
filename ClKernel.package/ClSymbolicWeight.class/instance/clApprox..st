@@ -1,4 +1,4 @@
-as yet unclassified
+comparing
 clApprox: s
 	"Return true if this symbolic weight is approximately equal to s. 
 		The argument s must be another symbolic weight -- we can't

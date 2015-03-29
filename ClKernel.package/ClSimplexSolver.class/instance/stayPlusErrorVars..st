@@ -1,3 +1,3 @@
-as yet unclassified
+private
 stayPlusErrorVars: vs
 	stayPlusErrorVars := vs

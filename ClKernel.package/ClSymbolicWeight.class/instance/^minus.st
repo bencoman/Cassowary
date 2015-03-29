@@ -1,4 +1,4 @@
-as yet unclassified
+arithmetic
 - n
 	"Subtract n from this symbolic weight (n must also be a symbolic weight)"
 

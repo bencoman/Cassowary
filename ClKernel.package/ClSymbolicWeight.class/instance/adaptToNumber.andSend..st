@@ -1,3 +1,7 @@
 adapting
 adaptToNumber: rcvr andSend: selector
-	^ self perform: selector with: rcvr
+	"We can only adapt in the case of a '*'"
+
+	selector = #*
+		ifTrue: [ ^ self * rcvr ].
+	ExCLInternalError signal

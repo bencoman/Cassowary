@@ -1,4 +1,4 @@
-as yet unclassified
+accessing
 markerVars
 	"ACTION
 		Return a lookup table giving the marker variable for each constraint (used when deleting a constraint).

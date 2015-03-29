@@ -1,4 +1,4 @@
-as yet unclassified
+accessing
 terms
 	"ACTION
 		Return the 'terms' dictionary.  The keys in the dictionary will be

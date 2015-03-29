@@ -1,4 +1,4 @@
-as yet unclassified
+private
 deltaEditConstant: delta plusErrorVar: plusErrorVar minusErrorVar: minusErrorVar
 	"first check if the plusErrorVar is basic"
 

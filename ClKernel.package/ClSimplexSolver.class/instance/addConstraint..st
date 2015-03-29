@@ -1,4 +1,4 @@
-as yet unclassified
+constraints
 addConstraint: cn
 	"ACTION
 		Add the constraint cn to the tableau.

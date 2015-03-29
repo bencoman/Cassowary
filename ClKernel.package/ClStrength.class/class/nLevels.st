@@ -1,4 +1,4 @@
-as yet unclassified
+accessing
 nLevels
 	"return the number of non-required strengths"
 

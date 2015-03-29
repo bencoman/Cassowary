@@ -1,4 +1,4 @@
-as yet unclassified
+constraints
 incrementConstant: c
 	"ACTION
 		Increment the constant part of this expression by c.

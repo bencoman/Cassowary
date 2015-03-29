@@ -1,4 +1,4 @@
-as yet unclassified
+constraints
 removeConstraint: cn
 	"ACTION
 		Remove the constraint cn to the tableau.  Also remove any error variables associated with cn.

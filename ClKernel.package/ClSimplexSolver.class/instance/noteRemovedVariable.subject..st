@@ -1,4 +1,4 @@
-as yet unclassified
+accessing
 noteRemovedVariable: var subject: subject
 	"ACTION
 		Variable var has been removed from an expression.  If the expression is in a tableau the corresponding

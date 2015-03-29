@@ -1,4 +1,4 @@
-as yet unclassified
+resolving
 reset
 	"ACTION
 		Re-initialize this solver from the original constraints, thus getting rid of any accumulated 

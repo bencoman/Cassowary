@@ -1,4 +1,4 @@
-as yet unclassified
+comparing
 clApproxZero
 	"return true if this symbolic weight is approximately zero"
 

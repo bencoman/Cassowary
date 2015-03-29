@@ -1,4 +1,4 @@
-as yet unclassified
+accessing
 constant: c
 	"ACTION
 		See #constant

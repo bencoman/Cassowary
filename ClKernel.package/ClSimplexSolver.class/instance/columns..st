@@ -1,4 +1,4 @@
-as yet unclassified
+accessing
 columns: cols
 	"ACTION
 		See 'columns'.

@@ -1,4 +1,4 @@
-as yet unclassified
+editing
 endEdit
 	"ACTION
 		Do any needed cleanup after editing.  (See beginEdit for the sequence of calls.)

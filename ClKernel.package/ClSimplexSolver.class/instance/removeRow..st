@@ -1,4 +1,4 @@
-as yet unclassified
+private
 removeRow: var
 	"ACTION
 		var should be a basic variable, so that the tableau contains the constraint var=expr.  Remove this row,

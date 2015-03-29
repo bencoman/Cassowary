@@ -1,4 +1,4 @@
-as yet unclassified
+accessing
 noteAddedVariable: var subject: subject
 	"ACTION
 		Variable var has been added to an expression.  If the expression is in a tableau the corresponding

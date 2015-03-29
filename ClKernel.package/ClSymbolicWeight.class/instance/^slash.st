@@ -1,4 +1,4 @@
-as yet unclassified
+arithmetic
 / n
 	"Divide this symbolic weight by n (n should be a number)"
 

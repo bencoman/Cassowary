@@ -1,4 +1,4 @@
-as yet unclassified
+constraints
 cnGEQ: expr
 	"ACTION
 		Return a linear constraint self>=expr with strength=required and weight=1.

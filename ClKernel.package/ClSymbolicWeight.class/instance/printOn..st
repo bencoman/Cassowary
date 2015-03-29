@@ -1,4 +1,4 @@
-as yet unclassified
+printing
 printOn: strm
 	strm nextPutAll: '['.
 	(self at: 1) printOn: strm.

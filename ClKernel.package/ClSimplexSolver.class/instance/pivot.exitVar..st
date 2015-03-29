@@ -1,4 +1,4 @@
-as yet unclassified
+resolving
 pivot: entryVar exitVar: exitVar
 	"Do a pivot.  Move entryVar into the basis (i.e. make it a basic variable), and move exitVar out of the basis 
 	 (i.e. make it a parametric variable)."
