@@ -10,6 +10,6 @@
 		"terms" ],
 	"name" : "ClLinearExpression",
 	"pools" : [
-		"ClConstants" ],
+		 ],
 	"super" : "Object",
 	"type" : "normal" }

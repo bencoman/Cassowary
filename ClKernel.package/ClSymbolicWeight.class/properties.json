@@ -9,6 +9,6 @@
 		 ],
 	"name" : "ClSymbolicWeight",
 	"pools" : [
-		"ClConstants" ],
+		 ],
 	"super" : "Object",
 	"type" : "variable" }

@@ -10,6 +10,6 @@
 		"weight" ],
 	"name" : "ClConstraint",
 	"pools" : [
-		"ClConstants" ],
+		 ],
 	"super" : "Object",
 	"type" : "normal" }

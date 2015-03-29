@@ -25,6 +25,6 @@
 		"dummyCounter" ],
 	"name" : "ClSimplexSolver",
 	"pools" : [
-		"ClConstants" ],
+		 ],
 	"super" : "Object",
 	"type" : "normal" }

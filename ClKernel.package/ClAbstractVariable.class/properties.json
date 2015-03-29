@@ -9,6 +9,6 @@
 		"name" ],
 	"name" : "ClAbstractVariable",
 	"pools" : [
-		"ClConstants" ],
+		 ],
 	"super" : "Object",
 	"type" : "normal" }
