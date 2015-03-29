@@ -1,4 +1,4 @@
-as yet unclassified
+testing
 isRestricted
 	"ACTION
 		Return true if this is a restricted (or slack) variable.  Such variables are constrained to be 

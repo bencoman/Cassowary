@@ -10,5 +10,5 @@
 	"name" : "ExCLNonlinearExpression",
 	"pools" : [
 		 ],
-	"super" : "Exception",
+	"super" : "ExCLError",
 	"type" : "normal" }

@@ -1,4 +1,4 @@
-as yet unclassified
+printing
 printOn: strm
 	self strength printOn: strm.
 	strm nextPutAll: '('.

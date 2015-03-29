@@ -1,4 +1,4 @@
-as yet unclassified
+printing
 printOn: aStream
 	"ACTION
 		Prints a semi-descriptive representation to the stream, using the

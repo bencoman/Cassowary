@@ -1,4 +1,4 @@
-as yet unclassified
+testing
 isRequired
 	"ACTION
 		Return true if my strength is 'required'.

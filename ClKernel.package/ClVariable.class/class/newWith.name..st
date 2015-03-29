@@ -1,4 +1,4 @@
-as yet unclassified
+instance creation
 newWith: val name: n
 	"ACTION
 		Create a new variable with val as its initial value and name n.
@@ -11,7 +11,7 @@ newWith: val name: n
 		new
 	"
 
-	^self new
+	^ self new
 		value: val;
 		name: n;
 		yourself

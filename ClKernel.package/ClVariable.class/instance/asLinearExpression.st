@@ -1,4 +1,4 @@
-as yet unclassified
+converting
 asLinearExpression
 	"ACTION
 		Coerce this variable to be a linear expression.

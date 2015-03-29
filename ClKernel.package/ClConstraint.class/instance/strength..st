@@ -1,4 +1,4 @@
-as yet unclassified
+accessing
 strength: s
 	"PARAMETERS
 		s <ClStrength>

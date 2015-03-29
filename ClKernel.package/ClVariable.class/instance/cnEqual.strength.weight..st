@@ -1,4 +1,4 @@
-as yet unclassified
+constraints
 cnEqual: expr strength: s weight: w
 	"ACTION
 		Return a linear constraint self=expr of strength s and weight w.

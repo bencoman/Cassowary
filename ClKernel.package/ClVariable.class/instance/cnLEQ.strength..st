@@ -1,4 +1,4 @@
-as yet unclassified
+constraints
 cnLEQ: expr strength: s
 	"ACTION
 		Return a linear constraint self<=expr of strength s and weight 1.

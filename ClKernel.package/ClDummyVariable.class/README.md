@@ -1,0 +1,1 @@
+A dummy variable in the equation

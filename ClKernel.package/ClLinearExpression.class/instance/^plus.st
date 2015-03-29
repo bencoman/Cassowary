@@ -1,4 +1,4 @@
-as yet unclassified
+arithmetic
 + x
 	"ACTION
 		Return a new linear expression formed by adding x to self.

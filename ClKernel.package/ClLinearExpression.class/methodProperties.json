@@ -1,12 +1,12 @@
 {
 	"class" : {
-		"new" : "ThierryGoubier 3/27/2015 22:57",
-		"newWithSymbolicWeight" : "ThierryGoubier 3/27/2015 22:58" },
+		"new" : "ThierryGoubier 3/29/2015 18:15",
+		"newWithSymbolicWeight" : "ThierryGoubier 3/29/2015 18:15" },
 	"instance" : {
-		"*" : "ThierryGoubier 3/27/2015 22:58",
-		"+" : "ThierryGoubier 3/27/2015 22:58",
-		"-" : "ThierryGoubier 3/27/2015 22:58",
-		"/" : "ThierryGoubier 3/27/2015 22:58",
+		"*" : "ThierryGoubier 3/29/2015 18:16",
+		"+" : "ThierryGoubier 3/29/2015 18:16",
+		"-" : "ThierryGoubier 3/29/2015 18:16",
+		"/" : "ThierryGoubier 3/29/2015 18:16",
 		"addExpression:times:" : "ThierryGoubier 3/27/2015 22:58",
 		"addExpression:times:subject:solver:" : "ThierryGoubier 3/27/2015 22:58",
 		"addVariable:coefficient:" : "ThierryGoubier 3/27/2015 22:58",

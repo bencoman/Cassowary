@@ -1,3 +1,3 @@
-as yet unclassified
+arithmetic
 * expr
 	^ self asLinearExpression * expr

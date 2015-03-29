@@ -1,4 +1,4 @@
-as yet unclassified
+testing
 isDummy
 	"ACTION
 		Return true if this a dummy variable (used as a marker variable for required equality constraints).  Such 

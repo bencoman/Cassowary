@@ -1,4 +1,4 @@
-as yet unclassified
+instance creation
 newNamed: n
 	"ACTION
 		Create a new variable named n.
@@ -10,6 +10,6 @@ newNamed: n
 		new
 	"
 
-	^self new
+	^ self new
 		name: n;
 		yourself

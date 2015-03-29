@@ -1,4 +1,4 @@
-as yet unclassified
+printing
 printOn: aStream
 	"ACTION
 		See superclass method.

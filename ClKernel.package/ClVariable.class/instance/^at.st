@@ -1,4 +1,4 @@
-as yet unclassified
+converting
 @ obj
 	"ACTION
 		A convenience method for creating point pairs of
