@@ -1,0 +1,18 @@
+{
+	"category" : "ClDemos",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"p1",
+		"p2",
+		"p3",
+		"p4",
+		"p5" ],
+	"name" : "ClBoxesDemo",
+	"pools" : [
+		 ],
+	"super" : "ClDemoWindow",
+	"type" : "normal" }

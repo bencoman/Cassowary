@@ -1,0 +1,15 @@
+{
+	"category" : "ClDemos",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"p1",
+		"p2" ],
+	"name" : "ClBoundedLineDemo",
+	"pools" : [
+		 ],
+	"super" : "ClDemoWindow",
+	"type" : "normal" }

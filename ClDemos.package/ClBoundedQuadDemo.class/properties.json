@@ -1,0 +1,14 @@
+{
+	"category" : "ClDemos",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		 ],
+	"name" : "ClBoundedQuadDemo",
+	"pools" : [
+		 ],
+	"super" : "ClQuadDemo",
+	"type" : "normal" }

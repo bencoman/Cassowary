@@ -1,0 +1,16 @@
+{
+	"category" : "ClDemos",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"p1",
+		"p2",
+		"m1" ],
+	"name" : "ClMidpointDemo",
+	"pools" : [
+		 ],
+	"super" : "ClDemoWindow",
+	"type" : "normal" }

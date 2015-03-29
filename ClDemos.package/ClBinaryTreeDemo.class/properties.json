@@ -1,0 +1,16 @@
+{
+	"category" : "ClDemos",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"nodes",
+		"lines",
+		"height" ],
+	"name" : "ClBinaryTreeDemo",
+	"pools" : [
+		 ],
+	"super" : "ClDemoWindow",
+	"type" : "normal" }

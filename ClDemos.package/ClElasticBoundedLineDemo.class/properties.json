@@ -1,0 +1,14 @@
+{
+	"category" : "ClDemos",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		 ],
+	"name" : "ClElasticBoundedLineDemo",
+	"pools" : [
+		 ],
+	"super" : "ClBoundedLineDemo",
+	"type" : "normal" }
