@@ -1,0 +1,14 @@
+{
+	"category" : "BaselineOfCassowary",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "<historical>",
+	"instvars" : [
+		 ],
+	"name" : "BaselineOfCassowary",
+	"pools" : [
+		 ],
+	"super" : "BaselineOf",
+	"type" : "normal" }
