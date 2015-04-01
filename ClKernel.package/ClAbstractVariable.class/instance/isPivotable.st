@@ -7,4 +7,4 @@ isPivotable
 		<Boolean>
 	"
 
-	self subclassResponsibility
+	^ false

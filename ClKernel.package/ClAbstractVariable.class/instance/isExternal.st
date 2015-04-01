@@ -8,4 +8,4 @@ isExternal
 		<Boolean>
 	"
 
-	self subclassResponsibility
+	^ false

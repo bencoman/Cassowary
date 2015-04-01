@@ -1,0 +1,1 @@
+This class is a type of variable used in the solver.

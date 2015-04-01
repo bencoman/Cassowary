@@ -1,1 +1,1 @@
-A dummy variable in the equation
+A dummy variable is used internally in the solver

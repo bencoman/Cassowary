@@ -1,0 +1,1 @@
+A constrained variable, the one visible from the outside.

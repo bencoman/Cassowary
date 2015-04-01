@@ -1,0 +1,1 @@
+The slack variable is also a type of variable used internally in the solver.

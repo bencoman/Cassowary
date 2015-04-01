@@ -8,4 +8,4 @@ isRestricted
 		<Boolean>
 	"
 
-	^true
+	^ true

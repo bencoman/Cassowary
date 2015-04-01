@@ -8,4 +8,4 @@ isDummy
 		<Boolean>
 	"
 
-	^true
+	^ true
