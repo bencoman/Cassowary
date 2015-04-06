@@ -3,7 +3,7 @@
 		"makeDemos" : "ThierryGoubier 3/29/2015 15:54:57",
 		"new" : "ThierryGoubier 3/29/2015 15:54:57" },
 	"instance" : {
-		"beginManipulation" : "ThierryGoubier 3/29/2015 15:54:57",
+		"beginManipulation" : "ThierryGoubier 4/2/2015 00:15",
 		"button1Motion:clientData:callData:" : "ThierryGoubier 3/29/2015 15:54:57",
 		"buttonPress:clientData:callData:" : "ThierryGoubier 3/29/2015 15:54:57",
 		"buttonRelease:clientData:callData:" : "ThierryGoubier 3/29/2015 15:54:57",
@@ -21,7 +21,7 @@
 		"initialExtent" : "ThierryGoubier 3/29/2015 15:54:57",
 		"initialize" : "ThierryGoubier 3/29/2015 15:54:57",
 		"manipulationMoveTo:" : "ThierryGoubier 3/29/2015 15:54:57",
-		"open" : "ThierryGoubier 3/29/2015 15:54:57",
+		"open" : "ThierryGoubier 4/2/2015 00:19",
 		"pointerMotion:clientData:callData:" : "ThierryGoubier 3/29/2015 15:54:57",
 		"redraw" : "ThierryGoubier 3/29/2015 15:54:57",
 		"resizeArea:clientData:callData:" : "ThierryGoubier 3/29/2015 15:54:57",

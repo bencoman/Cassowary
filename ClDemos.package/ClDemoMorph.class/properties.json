@@ -4,9 +4,14 @@
 		 ],
 	"classvars" : [
 		 ],
-	"commentStamp" : "",
+	"commentStamp" : "<historical>",
 	"instvars" : [
-		 ],
+		"editX",
+		"editY",
+		"dragPoint",
+		"grabPoint",
+		"cs",
+		"errorPixel" ],
 	"name" : "ClDemoMorph",
 	"pools" : [
 		 ],

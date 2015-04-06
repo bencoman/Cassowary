@@ -1,5 +1,8 @@
 {
 	"class" : {
-		 },
+		"new" : "ThierryGoubier 4/2/2015 00:18" },
 	"instance" : {
-		 } }
+		"beginManipulation" : "ThierryGoubier 4/2/2015 00:15",
+		"endManipulation" : "ThierryGoubier 4/2/2015 00:17",
+		"initialize" : "ThierryGoubier 4/2/2015 00:17",
+		"manipulationMoveTo:" : "ThierryGoubier 4/2/2015 00:19" } }
