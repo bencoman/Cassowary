@@ -4,5 +4,10 @@
 	"instance" : {
 		"beginManipulation" : "ThierryGoubier 4/2/2015 00:15",
 		"endManipulation" : "ThierryGoubier 4/2/2015 00:17",
+		"grabThreshold" : "ThierryGoubier 4/7/2015 00:18",
+		"handlesMouseDown:" : "ThierryGoubier 4/7/2015 00:27",
 		"initialize" : "ThierryGoubier 4/2/2015 00:17",
-		"manipulationMoveTo:" : "ThierryGoubier 4/2/2015 00:19" } }
+		"manipulationMoveTo:" : "ThierryGoubier 4/2/2015 00:19",
+		"mouseDown:" : "ThierryGoubier 4/7/2015 00:30",
+		"mouseMove:" : "ThierryGoubier 4/7/2015 00:29",
+		"mouseUp:" : "ThierryGoubier 4/7/2015 00:30" } }
