@@ -1,3 +1,3 @@
-as yet unclassified
+initialization
 treeHeight: anInt
 	height := anInt

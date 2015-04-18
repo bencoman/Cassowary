@@ -2,8 +2,8 @@
 	"class" : {
 		 },
 	"instance" : {
-		"addAdditionalConstraints" : "ThierryGoubier 4/14/2015 23:39:44",
-		"constraintPointsDo:" : "ThierryGoubier 4/14/2015 23:39:44",
-		"drawArea" : "ThierryGoubier 4/14/2015 23:39:44",
-		"initialize" : "ThierryGoubier 4/14/2015 23:39:44",
-		"title" : "ThierryGoubier 4/14/2015 23:39:44" } }
+		"addAdditionalConstraints" : "ThierryGoubier 4/18/2015 21:36",
+		"constraintPointsDo:" : "ThierryGoubier 4/18/2015 21:36",
+		"drawOn:" : "ThierryGoubier 4/18/2015 21:37",
+		"initialize" : "ThierryGoubier 4/18/2015 21:36",
+		"title" : "ThierryGoubier 4/18/2015 21:37" } }

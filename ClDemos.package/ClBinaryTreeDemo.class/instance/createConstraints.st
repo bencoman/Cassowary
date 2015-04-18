@@ -1,4 +1,4 @@
-as yet unclassified
+initialization
 createConstraints
 	| sorted inset spacing winWidth winHeight root |
 	"Add stays on each node.  Accumulate the nodes children first, so that the weights

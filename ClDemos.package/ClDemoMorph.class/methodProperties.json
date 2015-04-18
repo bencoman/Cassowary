@@ -1,15 +1,17 @@
 {
 	"class" : {
-		"new" : "ThierryGoubier 4/14/2015 23:39:44" },
+		"new" : "ThierryGoubier 4/14/2015 23:39:44",
+		"open" : "ThierryGoubier 4/18/2015 20:31" },
 	"instance" : {
 		"beginManipulation" : "ThierryGoubier 4/14/2015 23:39:44",
 		"constraintPointsDo:" : "ThierryGoubier 4/18/2015 18:26",
+		"defaultBounds" : "ThierryGoubier 4/18/2015 20:39",
 		"drawGrabBox" : "ThierryGoubier 4/18/2015 18:25",
 		"endManipulation" : "ThierryGoubier 4/14/2015 23:39:44",
 		"getGrabPoint:" : "ThierryGoubier 4/18/2015 20:01",
 		"grabThreshold" : "ThierryGoubier 4/14/2015 23:39:44",
 		"handlesMouseDown:" : "ThierryGoubier 4/14/2015 23:39:44",
-		"initialExtent" : "ThierryGoubier 4/18/2015 18:26",
+		"initialExtent" : "ThierryGoubier 4/18/2015 20:39",
 		"initialize" : "ThierryGoubier 4/18/2015 18:59",
 		"manipulationMoveTo:" : "ThierryGoubier 4/14/2015 23:39:44",
 		"mouseDown:" : "ThierryGoubier 4/18/2015 19:55",

@@ -1,0 +1,1 @@
+A simple segment with a midpoint

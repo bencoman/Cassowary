@@ -1,4 +1,4 @@
-as yet unclassified
+initialization
 defaultBounds
 	"ACTION
 		Return the initial bounds for the overall window.

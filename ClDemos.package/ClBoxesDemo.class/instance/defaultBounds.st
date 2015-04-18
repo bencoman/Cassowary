@@ -1,7 +1,7 @@
 initialize
-initialExtent
+defaultBounds
 	"ACTION
 		Return the initial size for the overall window.
 	"
 
-	^ self defaultBounds extent
+	^ 0 @ 0 extent: 600 @ 300

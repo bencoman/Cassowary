@@ -1,0 +1,1 @@
+Boxes connected to each other. Slide a box left or right to see how the others react.

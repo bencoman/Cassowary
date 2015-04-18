@@ -4,7 +4,7 @@
 		 ],
 	"classvars" : [
 		 ],
-	"commentStamp" : "",
+	"commentStamp" : "<historical>",
 	"instvars" : [
 		"p1",
 		"p2",
@@ -17,5 +17,5 @@
 	"name" : "ClQuadDemo",
 	"pools" : [
 		 ],
-	"super" : "ClDemoWindow",
+	"super" : "ClDemoMorph",
 	"type" : "normal" }

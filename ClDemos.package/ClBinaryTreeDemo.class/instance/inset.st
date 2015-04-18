@@ -1,3 +1,3 @@
-as yet unclassified
+private
 inset
 	^ 10.0

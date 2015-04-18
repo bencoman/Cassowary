@@ -1,4 +1,4 @@
-as yet unclassified
+interaction
 constraintPointsDo: aBlock
 
 	aBlock value: p1.

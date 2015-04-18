@@ -1,0 +1,1 @@
+Quad points demo with mid-points also constrained.

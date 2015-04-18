@@ -1,3 +1,3 @@
-as yet unclassified
+private
 spacing
 	^ 10.0

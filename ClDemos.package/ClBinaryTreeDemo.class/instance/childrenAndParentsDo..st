@@ -1,4 +1,4 @@
-as yet unclassified
+private
 childrenAndParentsDo: block
 	"evaluate a block for all children and parents, starting with leaves and going up the tree"
 

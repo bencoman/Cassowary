@@ -1,7 +1,7 @@
-as yet unclassified
-initialExtent
+initialize
+defaultBounds
 	"ACTION
 		Return the initial size for the overall window.
 	"
 
-	^600 @ 300
+	^ 0 @ 0 extent: 300 @ 300
