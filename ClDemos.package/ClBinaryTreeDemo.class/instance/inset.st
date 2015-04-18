@@ -1,3 +1,3 @@
 as yet unclassified
 inset
-	^10.0
+	^ 10.0

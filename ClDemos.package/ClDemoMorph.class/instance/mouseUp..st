@@ -4,4 +4,7 @@ mouseUp: evt
 
 	"Release the dragged point, end the manipulation."
 
-	
+	dragPoint isNil
+		ifTrue: [ ^ self ].
+	dragPoint := nil.
+	self endManipulation

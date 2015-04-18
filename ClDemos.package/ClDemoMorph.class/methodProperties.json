@@ -1,13 +1,16 @@
 {
 	"class" : {
-		"new" : "ThierryGoubier 4/2/2015 00:18" },
+		"new" : "ThierryGoubier 4/14/2015 23:39:44" },
 	"instance" : {
-		"beginManipulation" : "ThierryGoubier 4/2/2015 00:15",
-		"endManipulation" : "ThierryGoubier 4/2/2015 00:17",
-		"grabThreshold" : "ThierryGoubier 4/7/2015 00:18",
-		"handlesMouseDown:" : "ThierryGoubier 4/7/2015 00:27",
-		"initialize" : "ThierryGoubier 4/2/2015 00:17",
-		"manipulationMoveTo:" : "ThierryGoubier 4/2/2015 00:19",
-		"mouseDown:" : "ThierryGoubier 4/7/2015 00:30",
-		"mouseMove:" : "ThierryGoubier 4/7/2015 00:29",
-		"mouseUp:" : "ThierryGoubier 4/7/2015 00:30" } }
+		"beginManipulation" : "ThierryGoubier 4/14/2015 23:39:44",
+		"constraintPointsDo:" : "ThierryGoubier 4/18/2015 18:26",
+		"drawGrabBox" : "ThierryGoubier 4/18/2015 18:25",
+		"endManipulation" : "ThierryGoubier 4/14/2015 23:39:44",
+		"grabThreshold" : "ThierryGoubier 4/14/2015 23:39:44",
+		"handlesMouseDown:" : "ThierryGoubier 4/14/2015 23:39:44",
+		"initialExtent" : "ThierryGoubier 4/18/2015 18:26",
+		"initialize" : "ThierryGoubier 4/18/2015 18:59",
+		"manipulationMoveTo:" : "ThierryGoubier 4/14/2015 23:39:44",
+		"mouseDown:" : "ThierryGoubier 4/18/2015 18:23",
+		"mouseMove:" : "ThierryGoubier 4/18/2015 18:24",
+		"mouseUp:" : "ThierryGoubier 4/18/2015 18:17" } }

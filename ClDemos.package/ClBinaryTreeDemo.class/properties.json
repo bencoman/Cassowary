@@ -4,7 +4,7 @@
 		 ],
 	"classvars" : [
 		 ],
-	"commentStamp" : "",
+	"commentStamp" : "<historical>",
 	"instvars" : [
 		"nodes",
 		"lines",
@@ -12,5 +12,5 @@
 	"name" : "ClBinaryTreeDemo",
 	"pools" : [
 		 ],
-	"super" : "ClDemoWindow",
+	"super" : "ClDemoMorph",
 	"type" : "normal" }

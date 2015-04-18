@@ -1,14 +1,15 @@
 {
 	"class" : {
-		"height:" : "ThierryGoubier 3/29/2015 15:54:57" },
+		"height:" : "ThierryGoubier 4/18/2015 19:03" },
 	"instance" : {
-		"childrenAndParentsDo:" : "ThierryGoubier 3/29/2015 15:54:57",
-		"constraintPointsDo:" : "ThierryGoubier 3/29/2015 15:54:57",
-		"createConstraints" : "ThierryGoubier 3/29/2015 15:54:57",
-		"drawArea" : "ThierryGoubier 3/29/2015 15:54:57",
-		"height:" : "ThierryGoubier 3/29/2015 15:54:57",
-		"initialExtent" : "ThierryGoubier 3/29/2015 15:54:57",
-		"initialize" : "ThierryGoubier 3/29/2015 15:54:57",
-		"inset" : "ThierryGoubier 3/29/2015 15:54:57",
-		"spacing" : "ThierryGoubier 3/29/2015 15:54:57",
-		"title" : "ThierryGoubier 3/29/2015 15:54:57" } }
+		"childrenAndParentsDo:" : "ThierryGoubier 4/18/2015 19:00",
+		"constraintPointsDo:" : "ThierryGoubier 4/18/2015 18:46",
+		"createConstraints" : "ThierryGoubier 4/18/2015 18:47",
+		"defaultBounds" : "ThierryGoubier 4/18/2015 19:05",
+		"drawArea" : "ThierryGoubier 4/14/2015 23:39:44",
+		"drawOn:" : "ThierryGoubier 4/18/2015 19:04",
+		"initialize" : "ThierryGoubier 4/18/2015 19:00",
+		"inset" : "ThierryGoubier 4/18/2015 18:47",
+		"spacing" : "ThierryGoubier 4/18/2015 18:47",
+		"title" : "ThierryGoubier 4/18/2015 18:47",
+		"treeHeight:" : "ThierryGoubier 4/18/2015 19:02" } }

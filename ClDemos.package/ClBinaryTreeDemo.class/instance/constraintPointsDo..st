@@ -1,4 +1,3 @@
 as yet unclassified
 constraintPointsDo: aBlock
-
-	nodes do: [:each | aBlock value: each]
+	nodes do: [ :each | aBlock value: each ]

@@ -1,7 +1,7 @@
-as yet unclassified
+initialize
 initialExtent
 	"ACTION
 		Return the initial size for the overall window.
 	"
 
-	^500 @ 300
+	^300 @ 300
