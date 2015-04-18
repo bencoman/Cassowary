@@ -6,11 +6,15 @@
 		"constraintPointsDo:" : "ThierryGoubier 4/18/2015 18:26",
 		"drawGrabBox" : "ThierryGoubier 4/18/2015 18:25",
 		"endManipulation" : "ThierryGoubier 4/14/2015 23:39:44",
+		"getGrabPoint:" : "ThierryGoubier 4/18/2015 20:01",
 		"grabThreshold" : "ThierryGoubier 4/14/2015 23:39:44",
 		"handlesMouseDown:" : "ThierryGoubier 4/14/2015 23:39:44",
 		"initialExtent" : "ThierryGoubier 4/18/2015 18:26",
 		"initialize" : "ThierryGoubier 4/18/2015 18:59",
 		"manipulationMoveTo:" : "ThierryGoubier 4/14/2015 23:39:44",
-		"mouseDown:" : "ThierryGoubier 4/18/2015 18:23",
-		"mouseMove:" : "ThierryGoubier 4/18/2015 18:24",
-		"mouseUp:" : "ThierryGoubier 4/18/2015 18:17" } }
+		"mouseDown:" : "ThierryGoubier 4/18/2015 19:55",
+		"mouseMove:" : "ThierryGoubier 4/18/2015 20:01",
+		"mouseUp:" : "ThierryGoubier 4/18/2015 18:17",
+		"open" : "ThierryGoubier 4/18/2015 19:48",
+		"redraw" : "ThierryGoubier 4/18/2015 19:29",
+		"windowIn:title:" : "ThierryGoubier 4/18/2015 19:48" } }

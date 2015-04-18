@@ -4,8 +4,8 @@ mouseDown: evt
 
 	"If I have a grab point, make it a drag point and start dragging."
 
-	grabPoint isNil
-		ifTrue: [ ^ self ].
+	self getGrabPoint: evt.
+	grabPoint ifNil: [ ^ self ].
 	self drawGrabBox.
 	dragPoint := grabPoint.
 	grabPoint := nil.
