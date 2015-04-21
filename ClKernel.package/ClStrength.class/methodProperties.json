@@ -1,16 +1,16 @@
 {
 	"class" : {
-		"initialize" : "ThierryGoubier 3/29/2015 22:32:01",
-		"medium" : "ThierryGoubier 3/29/2015 22:32:01",
-		"nLevels" : "ThierryGoubier 3/29/2015 22:32:01",
-		"required" : "ThierryGoubier 3/29/2015 22:32:01",
-		"strengthsDo:" : "ThierryGoubier 3/29/2015 22:32:01",
-		"strong" : "ThierryGoubier 3/29/2015 22:32:01",
-		"weak" : "ThierryGoubier 3/29/2015 22:32:01" },
+		"initialize" : "ThierryGoubier 4/1/2015 19:29:46",
+		"medium" : "ThierryGoubier 4/1/2015 19:29:46",
+		"nLevels" : "ThierryGoubier 4/1/2015 19:29:46",
+		"required" : "ThierryGoubier 4/1/2015 19:29:46",
+		"strengthsDo:" : "ThierryGoubier 4/1/2015 19:29:46",
+		"strong" : "ThierryGoubier 4/1/2015 19:29:46",
+		"weak" : "ThierryGoubier 4/1/2015 19:29:46" },
 	"instance" : {
-		"isRequired" : "ThierryGoubier 3/29/2015 22:32:01",
-		"name" : "ThierryGoubier 3/29/2015 22:32:01",
-		"name:" : "ThierryGoubier 3/29/2015 22:32:01",
-		"printOn:" : "ThierryGoubier 3/29/2015 22:32:01",
-		"symbolicWeight" : "ThierryGoubier 3/29/2015 22:32:01",
-		"symbolicWeight:" : "ThierryGoubier 3/29/2015 22:32:01" } }
+		"isRequired" : "ThierryGoubier 4/1/2015 19:29:46",
+		"name" : "ThierryGoubier 4/1/2015 19:29:46",
+		"name:" : "ThierryGoubier 4/1/2015 19:29:46",
+		"printOn:" : "ThierryGoubier 4/1/2015 19:29:46",
+		"symbolicWeight" : "ThierryGoubier 4/1/2015 19:29:46",
+		"symbolicWeight:" : "ThierryGoubier 4/1/2015 19:29:46" } }
