@@ -40,5 +40,5 @@ optimize: zVar
 											exitVar := v ] ] ] ].	"If minRatio is still nil at this point, it means that the objective function is unbounded, i.e. it can 
 			become arbitrarily negative.  This should never happen in this application."
 			minRatio isNil
-				ifTrue: [ ExCLInternalError signal ].
+				ifTrue: [ ExCLInternalError signal: 'The objective function is unbounded' ].
 			self pivot: entryVar exitVar: exitVar ]
