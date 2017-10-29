@@ -1,0 +1,22 @@
+To remove doubt on licensing, its noted that a Cassowary Smalltalk library 
+ported by Joshua Gargus is available at http://www.squeaksource.com/Cassowary.html.  
+That repo is LGPL licensed.
+
+This repo is MIT Licensed.
+It is a separate independent port by Thierry Goubier of the original 12 March 2000 
+release https://constraints.cs.washington.edu/cassowary/cassowary-0.60.tar.gz.
+
+Most language implementations included in that archive were licensed LGPL,
+but from its included .../smalltalk/README file: 
+    This directory contains files for a Smalltalk implementation of Cassowary.  
+    This Smalltalk implementation is released to the public domain.
+    
+Directory files:
+    README
+    A991206.dat
+    ClDemos.app
+    ClKernel.app
+    ClKernel.st
+    ClTests.app
+    Makefile.am
+    Makefile.in
